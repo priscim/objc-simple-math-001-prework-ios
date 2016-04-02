@@ -21,7 +21,7 @@
 // a=2
 // b=3
      
-   %li=a
+//   %li=a
 //  a=17
 //   %li=b
 //     b=29
@@ -33,9 +33,17 @@
 //     u=8-10
 //     NSLog(@"u:%lu",u);
   
-     BOOL threeisequaltothree = 3 == 3
-     NSLog (@"3 == 3:%d", threeisequaltothree);
+//     BOOL threeisequaltothree = 3 == 3
+//     NSLog (@"3 == 3:%d", threeisequaltothree);
      
+//  BOOL AIsEqualToB = a == b;
+//  NSLog(@"a==b: %d", AIsEqualToB);
+     
+// NSInteger x = 2+3*5
+// NSLog(@"x: %li", x);
+     
+GFloat f = 0.0;
+     NSLog (@"f: %lf", f);
      
      * Write your code here.
      
